@@ -1,0 +1,54 @@
+body{
+   background-image:url("capa-gatos.png");
+   background-repeat: no-repeat;
+}
+   .oi{
+  background-color: #91C0FF;
+	width: 20px;
+   color: white;
+   font-size: 1rem;
+   margin-left: 10px; 
+   padding: 10px;
+}
+.img:hover{
+  width: 200px;
+
+}
+.link{
+   text-decoration: none;
+}
+.link:hover{
+    /*background-color: red;*/
+}
+#noticia{
+   width: 20px;
+   color: white;
+   font-size: 1rem;
+   margin-left: 10px; 
+   padding: 10px;
+   	
+}
+#oi1{
+  background-color: black;
+  color: white;
+}
+#oi2{
+  background-color: red;
+  font-size: 50px;
+  color: green;
+}
+.tabela{
+border: solid 1px black;
+}
+
+a:link:active { 
+  color: blue;
+} 
+
+
+a:visited:active{ 
+  color: black;
+}
+a:hover { 
+  color: red;
+}
