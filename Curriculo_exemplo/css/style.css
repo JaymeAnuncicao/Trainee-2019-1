@@ -1,0 +1,63 @@
+body{
+    /* para referenciar uma imagem que está em outra pasta pelo css :  */
+    background-image: url('../img/bg_home.jpg');
+    /*background-repeat faz com que a imagem de fundo na se repita varias vezes  */
+    background-repeat: no-repeat;
+    /*background-size faz com que a imagem de fundo cubra toda pagina  */
+    background-size: cover;
+}
+.foto{
+    width: 150px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.nome{
+    display: inline;
+}
+.name{
+    background-color: red;
+    width: 100%;
+    
+}
+#info{
+    margin-top: 2vh;
+    padding: 20px;
+    color: white;
+    width: 80vw;
+    height: 50vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-width:2px;
+    left:0px;
+
+}
+#idiomas{
+    margin-top: 2vh;
+    padding: 20px;
+    color: white;
+    width: 40vw;
+    height: 50vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-width:2px;
+
+}
+.cursos{
+    list-style: none;
+    margin-bottom: 5vh;
+}
+.cursos:hover{
+    font-size: 20px;
+    cursor: pointer;
+}
+.tabela{
+    border: solid 2px red;
+}
+.linha{
+    border: 1px solid  red;
+    text-align: left;
+    padding: 8px;
+}
+#info2{
+    padding: 20px;
+    background-color: green;
+}
