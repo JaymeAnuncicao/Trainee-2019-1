@@ -13,16 +13,24 @@ Aula de SQL (https://www.jdoodle.com/execute-sql-online);
   
   ID INT(100) NOT NULL AUTO_INCREMENT,
   PRIMARY KEY(ID)
+  
   );
+  
   INSERT INTO TABLE_NAME VALUES (1, 2°COLUNA, ...);
     
   SELECT * FROM TABLE_NAME;(mostrar no site de comandos as variações: DISTINCT, WHERE, OR, AND, NOT);
   
   
   
-  ALTER TABLE
+  ALTER TABLE(
+  
+  ADD column_name datatype(--ADD jurandi int(100)--);
+  
+  );
+  
+  ORDER BY ()
 };
 
-4° ;
+4° Treinar usando o w3Schools --> NOME DAS TABELAS(CustomerID |	CustomerName | ContactName	| Address |	City |	PostalCode |	Country);
 
 5°
