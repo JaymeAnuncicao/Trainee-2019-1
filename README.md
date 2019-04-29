@@ -33,4 +33,4 @@ Aula de SQL (https://www.jdoodle.com/execute-sql-online);
 
 4° Treinar usando o w3Schools --> NOME DAS TABELAS(CustomerID |	CustomerName | ContactName	| Address |	City |	PostalCode |	Country);
 
-5°
+5° https://www.vivaolinux.com.br/topico/Python/Desenvolvendo-varias-telas-Pycharm-Tkinter
